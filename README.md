@@ -1,0 +1,4 @@
+splashscreen
+============
+
+splashscreen phonegap test
